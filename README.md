@@ -11,7 +11,8 @@ BOX LOGO
 
 ## salida
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/e2e71f2b-658f-4d65-a928-1f791fa2850a)
+
 
 This project is a starting point for a Flutter application.
 
